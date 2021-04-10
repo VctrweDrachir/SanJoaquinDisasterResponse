@@ -1,0 +1,385 @@
+<html>
+<head>
+<style>
+* {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-decoration: none;
+
+}
+body {
+  background: #f2fafe
+  
+  ;
+  height: 11000px;
+}
+h1 {
+  padding: 30px;
+  text-align: center;
+  border: 0px solid skyblue;
+  font-family: 'Times New Roman', Times, serif;
+  color: white;
+  background: #006ef5;
+  margin-bottom:0;
+}
+#taena ul{
+  text-align: center;
+  padding: 20px;
+  background:#efa37f ;
+
+  
+}
+#taena ul li {
+  display: inline-block;
+}
+#taena ul li a {
+  border-radius: 20px;
+  padding: 20px;  
+  width: 120px;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 21;
+  color:white;
+}
+#taena ul li a:hover {
+  background: white;
+  color: black;
+  text-decoration: none;
+}
+
+p  {
+	text-align:center;
+  font-size:20;
+
+}
+#p2 {
+  text-decoration: underline;
+  font-size:21;
+}
+h3 {
+    text-align:center;
+    font-size:25;
+}
+
+.img {
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+h4 {
+  text-align:center;
+  font-size:22;
+}
+
+</style>
+<title> SanJoaquinDisasterResponseCycle </title>
+
+</head>
+<body>
+<div id="taena">
+  <h1><img src="logo.png" height="110" width="115"> <br>San Joaquin Disaster Response Program</h1>
+  <ul>
+    <li><a href="#home">Home</a></li>
+    <li><a href="#mitigation">Mitigation</a></li>
+    <li><a href="#preparedness">Preparedness</a></li>
+    <li><a href="#response">Response</a></li>
+    <li><a href="#recovery">Recovery</a></li>
+    <li><a href="#about">About</a></li>
+  </ul>
+  <br>
+  <br>
+
+</div>
+
+<div id="home">
+
+	<h3>   I. Introduction</h3>
+	
+	
+	<br>
+	<p id="Intro">
+		 The Philippines is near the West Pacific  Basin(busiest typhoon belt in the world). The <br> Philippines is also surrounded by the Pacific ocean, West Philippine sea, Bashi channel, and the <br> Celebes sea. Due to the Philippines’ geographical location, it is subjected to 20 or more <br>typhoons a year. The Typhoon Haiyan,for example, impacted our economy (we lost $5.8 <br> billion).Of course, many people know that the Philippines is subjected to many typhoons every <br> year and also how to be safe from typhoons. Some people, however, do not follow evacuation <br> orders from the LGU. They choose to stay at their houses even though it is very dangerous. We <br> need to educate people about the importance of evacuation. My local area is also experiencing <br> Covid-19 problems. Cases here in San Joaquin, Pasig are growing day by day. 
+
+    </p>
+
+    <br>
+    
+    <img src="sanjoaquinnap.jpg" width="500" height="450" class="img">
+    
+	<br>
+	<br>
+	<h3> II. Discussion of the Problem</h3>
+	<br>
+	<p>
+		The Philippines and NCR experience typhoons every year; therefore, San Joaquin also <br> experiences those. San Joaquin is not a flood prone area. If ever 3, 4, and 5 typhoon signals <br> strike, some houses might be destroyed. There are many non-engineered houses or old houses <br> in the San Joaquin area and typhoons could easily destroy those kinds of houses because of <br>strong winds. People might need to evacuate to certain evacuation centers. We know we have <br> Covid-19 problems  in San Joaquin. Evacuation centers might be crowded, so Covid-19 problems <br> might worsen. Social distancing and some guidelines might not be followed. The effects of <br> typhoons and Covid-19 could even be a greater problem, since both of them could be a threat <br>to the lives of the people. We must plan out how we can mitigate the effects of Covid-19 and <br> the typhoons accordingly.
+
+    </p>
+    <br>
+
+    <img src="oldhouse.png" width="500" height="450" class="img">
+
+    <br>
+    <p>
+      (Some examples old houses)
+    </p>
+</div>
+
+<br>
+<br>
+
+<hr>
+<br>
+
+<div id="mitigation">
+	<h3>III. Mitigation </h3>
+	<br>
+  <br>
+	<h4>A. Geographical Location</h4>
+	<br>
+    <p>
+		  -Some parts are far from the Pasig River, while others are near.<br>
+		  -There are flood walls around the river that could mitigate the effects of the overflowing of the river.<br>
+		  -San Joaquin will not experience the overflowing of the Pasig River.<br>
+     
+	</p>
+  <br>
+  <img src="liver.png" width="500" height="450" class="img">
+	<br>
+	<h4>B. Existing Policies</h4>
+	<br>
+	<p>
+     -Local offices have different jobs.<br>
+     -Evacuation centers ( Ultra, covered courts, and schools) <br>
+     -Mandatory evacuation before a typhoon. <br>
+     -Mandatory Covid-19 testing in the evacuation center.<br>
+     -Suspension of classes <br>
+     -DILG Oplan Listo<br>
+     -Add modular tents in evacuation centers<br>
+    </p>
+    <br>
+    <img src="modular.png" width="500" height="450" class="img">
+    <br>
+    <h4>C. Additional Policies </h4>
+    <br>
+  <p>
+    -Rebuilding the rebuilding evacuation centers into typhoon-proof ones. <br>
+-Give free health kits that have face masks, face shields, and some medical needs to people. These kits can help people have extra face masks for Covid-19 protection in case of disasters. <br>
+-Update evacuation plans in response to Covid-19 ( people should wear masks and face shields, and practice social distancing. <br>
+-Road widening project. <br>
+</p>
+<br>
+ <img src="peysmask.jpg" width="500" height="450" class="img">
+<br>
+    <h4>D. Condition of houses </h4>
+    <br>
+    <p>
+       -Houses are not durable. <br>
+ -Roads are too narrow.   <br>
+    </p>
+
+<br>
+<br>
+
+<hr>
+<br>
+
+</div>
+<div id="preparedness">
+  <h3>IV. Preparedness </h3>
+  <br>
+  <br>
+  <h4>A. Things that the local people need to prepare</h4>
+  <br>
+  <p>
+       -Canned foods <br>
+   -Water bottles    <br>
+   -First aid kits    <br>
+   -Health kits (with face mask) <br>
+   -Communication tools (whistle) <br>
+   -Personal supplies  <br>
+   -Emergency hotlines <br>
+   -Knowledge about the effects of different typhoon signals <br>
+   </p>
+   <br>
+   <img src="kit.jpeg" width="500" height="450" class="img">
+   <br>
+   <h4>B. Share information through infographics</h4>
+  <br>
+    <img src="info.jpg" width="500" height="1200" class="img">
+  <br>
+   <h4>C. Pasig emergency hotlines</h4>
+  <br>
+  <p>
+         -Pasig DRRMO - 8-643-000 <br>
+     -City health office - 8643-1111 <br>
+     -San Joaquin super health center- 09615825017 <br>
+
+   </p>
+   <br>
+
+   <h4>   D. Some of the acting offices
+
+</h4>
+  <br>
+  <p>
+         CITY LEVEL: <br>
+ -City/Municipal Social Welfare and Development Office (C/MSWDO) is assigned for relief and rehabilitation <br>
+-City/Municipal/ Rural Health Office (C/M/RHO) is for medical needs and nutrition <br>
+-Local Disaster Risk Reduction and Management Office - LDRRMO is assigned for communications, warning, search, and rescue <br>
+-Local PNP is for safety and security <br>
+-City Engineering Office is for recovery and rehabilitation <br>
+<br>
+                                NATIONAL LEVEL: <br>
+  -BFP, PNP, LDRRMO, DILG, AFP, Coast Guard, Marine for  search, rescue and retrieval  <br>
+-PNP, Tanods, Public Safety Office, AFP, Coast Guard, Marine for safety, law and order <br>
+-DPWH, Engineering Office, BFP for clearing operations <br>
+-MSWDO and school representatives for camp coordination and management <br>
+-WASH, SRH, Nutrition, and PSI MHPSS including MHO, sanitary inspector, MNAO for health emergency response <br>
+-Public information officer, media relations for communication and public awareness <br>
+
+   </p>
+   <br>
+   <h4>       E. Evacuation centers
+</h4>
+  <br>
+  <p>
+    -Ultra, Pasig <br>
+-San Joaquin Elementary School <br>
+<img src="Sanj.png" width="500" height="450" class="img"><br>
+-Covered Courts             <br>
+-Practice social distancing and wear masks inside such evacuation centers. <br>
+-Prepare important resources that you will need. <br>
+
+   </p>
+   <br>
+   <h4>     F. Preparations of our barangay
+</h4>
+  <br>
+  <p>
+    -Prepare the evacuation plan <br>
+-Advise the local people to evacuate beforehand <br>
+-Prepare the relief goods <br>
+-Give out masks <br>
+-Assign each offices for certain jobs    <br>                 
+-Strengthening  the Barangay Disaster Risk Reduction and Management Council (BDRRMC) <br>
+-Declogging of canals <br>
+
+   </p>
+   <br>
+   <h4>          G. Evacuation plan
+</h4>
+  <br>
+  <p>
+       1. Start a voluntary evacuation (Mandatory evacuation in high-risk areas) <br>
+2. Use markers to guide evacuees <br>
+3. Assess pre-identified evacuation centers <br>
+4. Prepare the evacuation centers and the list of evacuees <br>
+5. Ensure supplies <br>
+6. Ensure medical assistance <br>
+7. Give out face masks , face shields, and implement social distancing <br>
+8. Distribute relief goods <br>
+
+   </p>
+   <br>
+   <h4> H. Follow Oplan Listo Alpha, Bravo, and Charlie</h4>
+  <br>
+  <img src="plAn.png" width="500" height="450" class="img"><br>
+<br>
+<br>
+
+<hr>
+<br>
+</div>
+<div id="response">
+  <h3>V. Response</h3>
+  <br>
+  <br>
+  <h4>A. Plans for response
+</h4>
+  <br>
+    <p>
+     -Damage assessment <br>
+-Listing of dead and injured people <br>
+-Evacuate people as fast as we can<br>
+-Implement Covid-19 rules <br>
+-Distribute relief goods <br>
+-Give masks to the people <br>       
+-Building modular tents <br>
+
+     
+  </p>
+  <br>
+  <img src="gagsti.png" width="500" height="450" class="img">
+  <br>
+  <h4> B. Response of different agencies
+
+</h4>
+  <br>
+    <p>
+-BFP, PNP, LDRRMO, DILG, AFP, Coast Guard, and Marine should supervise search and rescue, and they should give out a head count of injured, missing and other casualties if required. <br>
+-PNP, Tanods, Public Safety Office, AFP, Coast Guard, and Marine should patrol the community and evacuation centers continuously to ensure protection.  <br>
+-DPWH, Engineering Office, and the BFP should help the Search, Rescue, and Retrieval teams in searching for trapped people in broken structures. <br>
+-MSWDO and school representatives should start mass feeding, acquire more relief goods, and give out relief goods.  <br>
+-WASH, SRH, Nutrition, and PSI MHPSS including MHO, sanitary inspector, and MNAO should give medical assistance, admit injured people in hospitals, ensure safety, and provide face masks/ face shields. <br>
+-Public information officer, and media relations team should impart advisories and warnings <br>
+
+
+     
+  </p>
+  <br>
+  <br>
+
+
+<hr>
+<br>
+<div id="recovery">
+ 
+  <h3>VI. Recovery</h3>
+  <br>
+  <br>
+  <h4>A. Plans for reconstruction
+
+</h4>
+  <br>
+  <div id="p2">
+  <p>
+      We need to reconstruct infrastructures and important buildings, electric posts, 
+                          and houses for recovery.
+
+  </p>
+  <br>
+</div>
+    <p>
+     -Rebuild important buildings (typhoon-proof) <br>
+-Typhoon-proof windows <br>
+-Consider the geographical location of the Philippines <br>
+-Help returning evacuees <br>
+-Community assessment for safety <br>
+-Restore power and water supplies <br>
+
+
+     
+  </p>
+  <br>
+  <img src="recon.png" width="500" height="450" class="img">
+  <br>
+  </div>
+  <br>
+  <br>
+  <hr>
+  <br>
+<div id="about">
+   <h3>VII. About</h3>
+  <br>
+  <br>
+ <p>
+  A. We need to practice DRRM cycle to prepare for future typhoons. We can mitigate <br>the effects of typhoons, by identifying the geographical location and building<br> typhoon-proof evacuation centers. We should prepare the things that the people<br> may need for the evacuation. We should coordinate with government agencies <br>that could respond after a serious typhoon. Lastly, we need to rebuild our <br>economy and broken infrastructures. As a SK chairman, we need mitigation plans <br> for these disasters so we can be prepared. Failing to do so might result in worse <br> damages and the death of many.
+
+ </p>
+ <br>
+  <img src="The-disaster-cycle.png" width="500" height="450" class="img">
+</div>
+</body>
+</html>
